@@ -1,0 +1,2 @@
+project is about music database stores and relates artists, songs, albums and years they were released.
+consists of three tables that hold all the data. 
